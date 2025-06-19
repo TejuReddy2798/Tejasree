@@ -1,5 +1,4 @@
-# Tejasree
-Hey, I am Tejasree
+Hey, This is Tejasree
 🎓 Master's in Computer Science @SEMO
 💼 Senior Python Full Stack Developer | AI/ML | GenAI | Cloud | Secure APIs
 🚀 An adept quick learner, swiftly mastering new skills with ease and precision.
